@@ -1,3 +1,7 @@
+# Dead Repo
+
+This repository is moved to https://github.com/akshaymankar/el-patron. Please use that repository.
+
 > *Note: This project was generated from the `yesod-minimal` scaffolding, and does not support features like `yesod devel`. If you want these features, use the `yesod-simple` stack template.*
 
 ## Haskell Setup
